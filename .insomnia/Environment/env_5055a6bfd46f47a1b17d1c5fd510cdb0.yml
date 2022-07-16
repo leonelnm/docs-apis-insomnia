@@ -1,0 +1,14 @@
+_id: env_5055a6bfd46f47a1b17d1c5fd510cdb0
+type: Environment
+parentId: env_b304629f2d71cd2ac0105e0d1609e7d2e6eb1ae4
+modified: 1657959695519
+created: 1657959136193
+name: Development
+data:
+  base_url: http://localhost:3000/api/v1
+dataPropertyOrder:
+  "&":
+    - base_url
+color: "#00db87"
+isPrivate: false
+metaSortKey: 1657959136193

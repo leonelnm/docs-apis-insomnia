@@ -1,0 +1,29 @@
+_id: req_c782bf123cc149a398f2b4137aee3e21
+type: Request
+parentId: wrk_2b90028bbd3e49a39bcbb8835e8b820d
+modified: 1657959613873
+created: 1657958160519
+url: "{{ _.base_url }}/user"
+name: user
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_922e629d1d764818846c42b30df1c60d
+    name: name
+    value: test
+    description: ""
+  - id: pair_f600c2fc42864c14bf0972cafe2cbcd6
+    name: dni
+    value: "12345"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1657958160519
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
